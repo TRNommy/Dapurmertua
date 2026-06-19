@@ -1,0 +1,11 @@
+# Robots.txt for Dapur Mertua
+# https://dapurmertua.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://dapurmertua.com/sitemap.xml
+
+# Crawl-delay (optional, helps prevent overload)
+Crawl-delay: 1

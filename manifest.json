@@ -1,0 +1,29 @@
+{
+  "name": "Dapur Mertua - Resep Lawas Rasa Berkelas",
+  "short_name": "Dapur Mertua",
+  "description": "Warung sarapan pagi khas Indonesia di Kota Binjai. Menu lengkap: lontong sayur, nasi uduk, soto, sate matang, mie pecel. Buka 06.00-11.00 WIB.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3d2817",
+  "theme_color": "#c8a165",
+  "orientation": "portrait",
+  "lang": "id",
+  "categories": [
+    "food",
+    "restaurant"
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
